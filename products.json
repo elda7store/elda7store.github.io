@@ -1,0 +1,164 @@
+{
+ "brand": "ELDA7",
+ "whatsapp": "201068746213",
+ "currency": "جنيه",
+ "categories": [
+  {
+   "id": "hoodies",
+   "name": "هوديز"
+  },
+  {
+   "id": "polo",
+   "name": "بولو"
+  },
+  {
+   "id": "sweat",
+   "name": "سويتشيرت"
+  }
+ ],
+ "products": [
+  {
+   "id": "oversize-hoodie",
+   "category": "hoodies",
+   "name": "هودى أوفرسايز",
+   "price": 750,
+   "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL"
+   ],
+   "colors": [
+    {
+     "name": "أبيض كريمى",
+     "swatch": "#efe9dc",
+     "image": "img/cream.jpg"
+    },
+    {
+     "name": "بنى",
+     "swatch": "#4a2a22",
+     "image": "img/brown.jpg"
+    },
+    {
+     "name": "أسود",
+     "swatch": "#141414",
+     "image": "img/black.jpg"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "category": "hoodies",
+   "name": "هودى كبسولة قطن بيور",
+   "price": 750,
+   "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL"
+   ],
+   "colors": [
+    {
+     "name": "فحمى",
+     "swatch": "#3a3a3c",
+     "image": "img/p2-charcoal.jpg"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "category": "hoodies",
+   "name": "هودى كابتشينو",
+   "price": 750,
+   "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL"
+   ],
+   "colors": [
+    {
+     "name": "رمادى",
+     "swatch": "#9a9a9c",
+     "image": "img/p3-grey.jpg"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "category": "polo",
+   "name": "بولو قطن بيور أولد موني",
+   "price": 750,
+   "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL"
+   ],
+   "colors": [
+    {
+     "name": "كحلى",
+     "swatch": "#1f2a44",
+     "image": "img/p4-navy-polo.jpg"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "category": "polo",
+   "name": "بولو مقلم قطن بيور",
+   "price": 750,
+   "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL"
+   ],
+   "colors": [
+    {
+     "name": "بوردو",
+     "swatch": "#6b1f2a",
+     "image": "img/p5-burgundy-polo.jpg"
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "category": "polo",
+   "name": "بولو بوكس فيت",
+   "price": 750,
+   "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL"
+   ],
+   "colors": [
+    {
+     "name": "بنى",
+     "swatch": "#6b4a3a",
+     "image": "img/p6-brown-striped-polo.jpg"
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "category": "sweat",
+   "name": "سويتشيرت كحلى",
+   "price": 750,
+   "sizes": [
+    "M",
+    "L",
+    "XL",
+    "2XL"
+   ],
+   "colors": [
+    {
+     "name": "كحلى",
+     "swatch": "#1f2a44",
+     "image": "img/p7-navy-crewneck.jpg"
+    }
+   ]
+  }
+ ]
+}
